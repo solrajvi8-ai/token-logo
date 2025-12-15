@@ -1,0 +1,17 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "description": "Utility token on Solana",
+  "image": "https://raw.githubusercontent.com/solrajvi8-ai/token-logo/main/logo.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/solrajvi8-ai/token-logo/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
